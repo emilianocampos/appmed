@@ -1,0 +1,54 @@
+#completar {
+    transition: all 500ms ease-in-out;
+
+
+}
+
+#completar:hover {
+    background-color: green;
+    transition: all 500ms ease-in-out;
+
+
+
+}
+
+#eliminar:hover {
+    background-color: violet;
+    transition: all 500ms ease-in-out;
+
+}
+
+#eliminar {
+
+    transition: all 500ms ease-in-out;
+
+}
+
+.completada {
+    text-decoration: line-through;
+
+}
+
+.noCompletada {
+
+    text-decoration: none;
+
+}
+
+.containerTarea {
+    padding: 5px;
+    border-radius: 10px;
+    margin: 10px;
+
+    box-shadow: red 0px 20px 30px -10px;
+    transition: all 1s ease-in-out;
+    background-color: rgb(90, 173, 91);
+
+}
+
+.containerTareaCompletada {
+
+    transition: all 1s ease-in-out;
+    background-color: greenyellow;
+
+}
