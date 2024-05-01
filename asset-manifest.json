@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/appmed/static/css/main.0bc70d64.css",
+    "main.js": "/appmed/static/js/main.8a959c81.js",
+    "static/js/453.604645c5.chunk.js": "/appmed/static/js/453.604645c5.chunk.js",
+    "index.html": "/appmed/index.html",
+    "main.0bc70d64.css.map": "/appmed/static/css/main.0bc70d64.css.map",
+    "main.8a959c81.js.map": "/appmed/static/js/main.8a959c81.js.map",
+    "453.604645c5.chunk.js.map": "/appmed/static/js/453.604645c5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0bc70d64.css",
+    "static/js/main.8a959c81.js"
+  ]
+}
